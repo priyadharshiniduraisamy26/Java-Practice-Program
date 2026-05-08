@@ -5,7 +5,7 @@ class FinalVar {
     }
 public static void main(String[] args) {
         FinalVar obj = new FinalVar();
-        obj.display();
+
     }
     
 }
